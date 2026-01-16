@@ -1,5 +1,9 @@
 # 為什麼工程師都愛用 Markdown 寫文件？
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+![unnamed (2)](./pic/README/unnamed%20(2).jpg)
+
 **嗨，大家！你是否曾經遇過這些問題？**
 
 1. **排版地獄**：在 Word 裡調整圖片位置，結果整份文件的文字都跑掉了。
